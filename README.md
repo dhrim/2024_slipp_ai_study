@@ -1,6 +1,9 @@
 # 2024_slipp_ai_study
 2024년 SLiPP AI 트랜드 - 개발자 관점으로
 
+# notion link
+https://www.notion.so/AI-72ad25bb1f3942a19033475ffbe240c6
+
 
 # 일정
 
