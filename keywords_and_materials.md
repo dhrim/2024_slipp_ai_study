@@ -1,0 +1,11 @@
+# 스터디 주제 키워드, 자료, 기타 등등
+- ChatGPT
+- OpenAI API of ChatGPT
+- ChatGPT plugin
+    - 나만의 ChatGPT 플러그인 만들기 : https://devocean.sk.com/blog/techBoardDetail.do?ID=165340#none
+- State of AI Report 2023 : https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ
+- huggingface
+- LangChain
+- Glarify, 동영상 요약 : https://glarity.app/ko
+- 실사 이미지 만들기 동영상 : https://www.youtube.com/watch?v=NZHeq9HH5t4&t=1s
+- ComfyUI, 영상제작 워크프로우?

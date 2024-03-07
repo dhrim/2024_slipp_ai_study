@@ -1,18 +1,24 @@
 # 2024_slipp_ai_study
 2024년 SLiPP AI 트랜드 - 개발자 관점으로
 
-# notion link
-https://www.notion.so/AI-72ad25bb1f3942a19033475ffbe240c6
+<br>
 
+# Link
+- SLiPP 홈 : https://frost-witch-afb.notion.site/fccf555749da4a6c86fa4ce9a462a7d7
+- SLiPP 26차 스터디 홈 : https://frost-witch-afb.notion.site/26-19d93f03a8ec4b51bf0ed2d68f075d52
+- SLiPP AI 트랜드 스터디 홈 : https://www.notion.so/AI-72ad25bb1f3942a19033475ffbe240c6
+- [키워드와 자료들 링크](keywords_and_materials.md)
+
+<br>
 
 # 일정
 
 회차 | 날짜 | 장소 | 발표자 | 주제 
 --- | --- | --- | --- | ---
-1 | 03/13(수) | 성담빌딩(우형) |  임도형 | .
-1 | 03/13(수) | 성담빌딩(우형) |  김미림 | Chat GPT 에게 질문한
-2 | 03/27(수) | 성담빌딩(우형) |  이은경 | .
-2 | 03/27(수) | 성담빌딩(우형) |  최경호 | Chat GPT 플러그인 만들기
+1 | 03/13(수) | 성담빌딩(우형) | 임도형 | OpenAI API 소개, 간단 실습
+1 | 03/13(수) | 성담빌딩(우형) | 김미림 | Chat GPT 에게 질문한
+2 | 03/27(수) | 성담빌딩(우형) | 이은경 | .
+2 | 03/27(수) | 성담빌딩(우형) | 최경호 | Chat GPT 플러그인 만들기
 3 | 04/??| ?? |  ?? | .
 3 | ??/??| ?? |  ?? | .
 4 | ??/??| ?? |  ?? | .
@@ -25,6 +31,7 @@ https://www.notion.so/AI-72ad25bb1f3942a19033475ffbe240c6
 7 | ??/??| ?? |  ?? | .
 8 | ??/??| ?? |  ?? | .
 8 | ??/??| ?? |  ?? | .
+
 
 
 
