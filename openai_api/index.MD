@@ -11,5 +11,7 @@
 # Reference
 
 - [2023 한림대 의대 워크샾 자료](https://github.com/dhrim/2023_hallym_chatgpt_workshop)
+- OpenAI API Rererence : https://platform.openai.com/docs/api-reference/introduction
+- OpenAI API python home : https://github.com/openai/openai-python
 
 
