@@ -1,6 +1,6 @@
 # OpenAI API 소개, 간단 실습
 
-- [OpenAI와 ChatGPT 관계](OpenAI_and_ChatGPT.pptx)
+- OpenAI와 ChatGPT 관계 : [OpenAI_and_ChatGPT.pptx](OpenAI_and_ChatGPT.pptx)
 - OpenAI API 단순 호출 방법 : [api_call_basic.ipynb](api_call_basic.ipynb) 
 - OpenAI API를 사용한 챗봇 : [tiny_chatbot.ipynb](tiny_chatbot.ipynb)
 - 임베딩 방법 : [how_to_embedding.ipynb](how_to_embedding.ipynb)
