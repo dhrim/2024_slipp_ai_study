@@ -15,4 +15,5 @@
 - LLM end-to-end
 - HK code 채널 : https://www.youtube.com/@HKCODE/videos
 - 개발자가 어떻게 자동화, 인공지능이 개발자, 개발 프로젝트에 해당하는 사람들의 자동화
+- 이제현님의 OpenAI API사용한 이미지 생성 결과를 ppt로 만들기 : https://jehyunlee.github.io/2024/03/20/General-46-dalle3styles3/
   
