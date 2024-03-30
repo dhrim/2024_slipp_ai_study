@@ -18,7 +18,7 @@ AI 관련 사항들을 개발자 관점으로 소개하는 스터디.
 1 | 03/13(수) | 성담빌딩(우형) | 임도형 | [OpenAI API 소개, 간단 실습](openai_api/index.MD)
 1 | 03/13(수) | 성담빌딩(우형) | 김미림 | [Chat GPT 에게 질문해보기](https://brick-bergamot-47c.notion.site/24-03-13-SLiPP-AI-e5f92778eac04beda9f0e86e360557f0?pvs=74)
 2 | 03/27(수) | 성담빌딩(우형) | 이은경 | 소소한 자동화
-2 | 03/27(수) | 성담빌딩(우형) | 최경호 | [~~Chat GPT 플러그인 만들기~~ NLP task prompt engineering](https://github.com/dhrim/2024_slipp_ai_study/issues/1)
+2 | 03/27(수) | 성담빌딩(우형) | 최경호 | [NLP task prompt engineering ~~Chat GPT 플러그인 만들기~~  ](https://github.com/dhrim/2024_slipp_ai_study/issues/1)
 3 | 04/??| ?? |  ?? | .
 3 | ??/??| ?? |  ?? | .
 4 | ??/??| ?? |  ?? | .
