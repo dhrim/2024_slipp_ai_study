@@ -22,7 +22,7 @@ AI 관련 사항들을 개발자 관점으로 소개하는 스터디.
 3 | 04/17(수) | 성담빌딩(우형) | 서경진 | [ComfyUI 소개, 설치 및 간단 이해](https://curioso365.tistory.com/184)
 3 | 04/17(수) | 성담빌딩(우형) | 이기남 | [AI 서비스 몇가지 소개](http://bit.ly/3xFgasf)
 4 | 04/24(수) | 성담빌딩(우형) | 서경진 | [ComfyUI 응용](https://curioso365.tistory.com/188)
-4 | 04/24(수) | 성담빌딩(우형) | 김태현 | .
+4 | 04/24(수) | 성담빌딩(우형) | 김태현 | [AGI 소개](https://docs.google.com/presentation/d/1eK5d3umHHtKcHqtJ2R6JccWwDXItvfuKZeLXMqrQts0/edit?usp=sharing)
 5 | ??/??| ?? |  ?? | .
 5 | ??/??| ?? |  ?? | .
 6 | ??/??| ?? |  ?? | .
