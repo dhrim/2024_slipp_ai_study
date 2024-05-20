@@ -24,7 +24,7 @@ AI 관련 사항들을 개발자 관점으로 소개하는 스터디.
 4 | 04/24(수) | 성담빌딩(우형) | 서경진 | [ComfyUI 응용](https://curioso365.tistory.com/188)
 4 | 04/24(수) | 성담빌딩(우형) | 김태현 | [AGI 소개](https://docs.google.com/presentation/d/1eK5d3umHHtKcHqtJ2R6JccWwDXItvfuKZeLXMqrQts0/edit?usp=sharing)
 5 | 05/09(목) | 어딘가 | 모두 | AI관련 떠들자
-6 | 05/22(수) | 성담빌딩(우형) | 김미림 | .
+6 | 05/22(수) | 성담빌딩(우형) | 김미림 | 딥러닝이 적용된 OCR 구경하기
 6 | 05/22(수) | 성담빌딩(우형) | 이기남 | LangChain 기본 개념
 7 | 06/06(수) | ?? |  ?? | .
 7 | 06/06(수) | ?? |  ?? | .
