@@ -26,7 +26,7 @@ AI 관련 사항들을 개발자 관점으로 소개하는 스터디.
 5 | 05/09(목) | 어딘가 | 모두 | AI관련 떠들자
 6 | 05/22(수) | 성담빌딩(우형) | 김미림 | [딥러닝이 적용된 OCR 구경하기](https://brick-bergamot-47c.notion.site/24-05-22-474863317fdc4ccfbc638835a44942bb)
 6 | 05/22(수) | 성담빌딩(우형) | 이기남 | [RAG with LangChain](https://docs.google.com/presentation/d/16kt8k7-GBccvdy1FKwXya_3ACRwaB0PoYbbNjNTvoqA/edit?usp=sharing), [추천자료](https://aifactory.space/task/2719/discussion/830)
-7 | 06/05(수) | ?? |  ?? | .
+6 | 05/22(수) | 성담빌딩(우형) | 김태현| [유튜브 요약 자동화](https://docs.google.com/presentation/d/14bnjHxQti_Rm-h1-uMWHc-5ddvgjUNzA57ot8DurjM4/edit?usp=sharing)
 7 | 06/05(수) | ?? |  ?? | .
 8 | 06/19(수) | 성담빌딩(우형) | 임도형 | 동영상에서 퀴즈 자동 생성 사례
 8 | 06/19(수) | ?? |  ?? | .
