@@ -29,8 +29,9 @@ AI 관련 사항들을 개발자 관점으로 소개하는 스터디.
 6 | 05/22(수) | 성담빌딩(우형) | 김태현 | [유튜브 요약 자동화](https://docs.google.com/presentation/d/14bnjHxQti_Rm-h1-uMWHc-5ddvgjUNzA57ot8DurjM4/edit?usp=sharing)
 7 | 06/05(수) | 성담빌딩(우형) |  최경호 | [GPT 학습 실습](https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/09_transformer/gpt/gpt.ipynb)
 8 | 06/19(수) | 성담빌딩(우형) | 임도형 | [동영상에서 퀴즈 자동 생성 사례](https://github.com/dhrim/2024_video_2_quiz)
-8 | 06/19(수) | 성담빌딩(우형) | 이은경 | [VAE 학습 실습](https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/03_vae/01_autoencoder/autoencoder.ipynb)
-                                    [new 및 VAE](https://github.com/ekleetime/2024_slipp_ai_study/blob/main/vae/2024_06_16.md)
+8 | 06/19(수) | 성담빌딩(우형) | 이은경 | [VAE 학습 실습](https://github.com/rickiepark/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/03_vae/01_autoencoder/autoencoder.ipynb)[new 및 VAE](https://github.com/ekleetime/2024_slipp_ai_study/blob/main/vae/2024_06_16.md)
+
+                                    
                                     
 
 
